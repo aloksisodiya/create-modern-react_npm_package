@@ -1,0 +1,33 @@
+{
+  "name": "create-modern-react",
+  "version": "1.0.0",
+  "description": "CLI to create a React project with Tailwind CSS pre-configured.",
+  "type": "module",
+  "bin": {
+    "create-modern-react": "./bin/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwindcss",
+    "cli",
+    "template",
+    "scaffold"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ],
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "fs-extra": "^11.3.5",
+    "ora": "^9.4.1",
+    "prompts": "^2.4.2"
+  }
+}
