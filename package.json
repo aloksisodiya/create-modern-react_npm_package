@@ -1,10 +1,10 @@
 {
-  "name": "create-modern-react",
+  "name": "create-modern-react-tailwind",
   "version": "1.0.0",
   "description": "CLI to create a React project with Tailwind CSS pre-configured.",
   "type": "module",
   "bin": {
-    "create-modern-react": "./bin/index.js"
+    "create-modern-react-tailwind": "./bin/index.js"
   },
   "engines": {
     "node": ">=18"
